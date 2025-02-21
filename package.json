@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.7",
+    "jsonwebtoken": "^9.0.2",
+    "kafkajs": "^2.2.4",
+    "typescript": "^5.7.2"
+  }
+}
